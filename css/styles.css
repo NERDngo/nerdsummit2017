@@ -155,6 +155,11 @@ body {
     margin: 10px;
 }
 
+.schedule-button ,
+.schedule-button:hover {
+    background-color: #6e11cc;
+}
+
 footer {
     background-color: #6e11cc;
     text-align: center;
